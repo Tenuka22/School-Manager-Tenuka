@@ -1,0 +1,161 @@
+{
+  "admins": [
+    {
+      "id": "Creato-01-sjsksjs-2939nsi-2-33nsj2-3j3j3u383ms0-2i383jsn0239--3i3-3i38383883jdj30ejdj300388ejd--3939udjdji2--edjde83hhd-2jdi9uwjd",
+      "name": "Tenuka",
+      "email": "Tenu@.com",
+      "password": "Tenu",
+      "designation": "Creator",
+      "isAdmin": "True"
+    }
+  ],
+  "users": [
+    {
+      "id": "Creato-01-sjsksjs-2939nsi-2-33nsj2-3j3j3u383ms0-2i383jsn0239--3i3-3i38383883jdj30ejdj300388ejd--3939udjdji2wuwiw02n--3nnhd-2jdi9uwjd",
+      "name": "Tenuka",
+      "email": "tenu@.com",
+      "password": "tenu",
+      "designation": "Student"
+    },
+    {
+      "email": "ssjskks@ma.sjd",
+      "password": "wsjsk",
+      "name": "snsjjaW",
+      "designation": "Student",
+      "id": "4fRbAJr"
+    },
+    {
+      "email": "gayu@.com",
+      "password": "gayu",
+      "name": "gayu",
+      "designation": "Student",
+      "id": "bAEovSO"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "title": "Notification001",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit necessitatibus corrupti quia maxime eveniet pariatur! Ipsa, nulla. Ducimus quo, exercitationem libero dolore nemo ut beatae iste cupiditate tempore laborum?",
+      "creator": "Tenuka",
+      "whom": "admins"
+    },
+    {
+      "id": "1",
+      "title": "Notification002",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit necessitatibus corrupti quia maxime eveniet pariatur! Ipsa, nulla. Ducimus quo, exercitationem libero dolore nemo ut beatae iste cupiditate tempore laborum?",
+      "creator": "Tenuka",
+      "whom": "admins"
+    },
+    {
+      "id": "1",
+      "title": "Notification003",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit necessitatibus corrupti quia maxime eveniet pariatur! Ipsa, nulla. Ducimus quo, exercitationem libero dolore nemo ut beatae iste cupiditate tempore laborum?",
+      "creator": "Tenuka",
+      "whom": "admins"
+    },
+    {
+      "id": "2",
+      "title": "Notification002",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit necessitatibus corrupti quia maxime eveniet pariatur! Ipsa, nulla. Ducimus quo, exercitationem libero dolore nemo ut beatae iste cupiditate tempore laborum?",
+      "creator": "Tenuka",
+      "whom": "Grade 09 Students"
+    },
+    {
+      "id": "3",
+      "title": "Notification003",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit necessitatibus corrupti quia maxime eveniet pariatur! Ipsa, nulla. Ducimus quo, exercitationem libero dolore nemo ut beatae iste cupiditate tempore laborum?",
+      "creator": "Tenuka",
+      "whom": "Grade 010 Students"
+    }
+  ],
+  "recent": [
+    {
+      "id": 1,
+      "title": "jskak sjsjn 2ijsn",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio cum vitae, tenetur iure minima harum aliquam, sit tempora dignissimos illum hic impedit molestiae perferendis animi officiis optio quisquam totam soluta.",
+      "images": [
+        {
+          "url": "https://plus.unsplash.com/premium_photo-1679695191632-7cd0ed724310?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "jskak sjsjn 2ijsn",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio cum vitae, tenetur iure minima harum aliquam, sit tempora dignissimos illum hic impedit molestiae perferendis animi officiis optio quisquam totam soluta.",
+      "images": []
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "Name": "Tenuk Sjsnn",
+      "Phone_Number": "010239393",
+      "Subjects": [
+        {
+          "SName": "Science",
+          "Classes": [
+            {
+              "Name": "G01A",
+              "Periods": [
+                {
+                  "Time": "WeP03"
+                },
+                {
+                  "Time": "WeP08"
+                }
+              ]
+            },
+            {
+              "Name": "G01A",
+              "Periods": [
+                {
+                  "Time": "WeP03"
+                },
+                {
+                  "Time": "WeP08"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "SName": "Maths",
+          "Classes": [
+            {
+              "Name": "G01A",
+              "Periods": [
+                {
+                  "Time": "WeP03"
+                },
+                {
+                  "Time": "WeP08"
+                }
+              ]
+            },
+            {
+              "Name": "G01A",
+              "Periods": [
+                {
+                  "Time": "WeP03"
+                },
+                {
+                  "Time": "WeP08"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Positions": [
+        {
+          "Ttile": "Class Teacher G01A"
+        }
+      ]
+    }
+  ]
+}
